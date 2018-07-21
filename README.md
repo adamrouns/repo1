@@ -7,5 +7,4 @@ Column1 | Column2
 ------- | -------
 Key1    | Value1
 
-* Issues
 #1
