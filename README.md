@@ -9,6 +9,9 @@ public class HelloWorld {
 }
 ```
 
+*Italic1*  
+_Italic2_
+
 * List
   * Item 1
 
