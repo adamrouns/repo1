@@ -9,7 +9,7 @@ public class HelloWorld {
 }
 ```
 
-*Italic1*<br/>  
+*Italic1*  
 _Italic2_
 
 * List
