@@ -12,6 +12,8 @@ public class HelloWorld {
 *Italic1*  
 _Italic2_
 
+**Bold1**
+
 * List
   * Item 1
 
